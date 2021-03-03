@@ -10,6 +10,8 @@ To prevent the device from a "bruteforce-attack" (just trying out every possible
 
 ![IMG_20190109_185457](https://user-images.githubusercontent.com/78151090/109825302-fd533180-7c39-11eb-97e6-aa2ce708f5b5.jpg)
 
+Der NFC Sensor wurde in einer eigens konstruierten Smartphone-Halterung mit Epoxitharz wasserdicht vergossen.
+
 ![IMG_20190117_150513](https://user-images.githubusercontent.com/78151090/109825320-00e6b880-7c3a-11eb-853e-361507312301.jpg)
 
 ![mc zeug](https://user-images.githubusercontent.com/78151090/109825335-047a3f80-7c3a-11eb-95a3-7dd3843b2283.jpg)
